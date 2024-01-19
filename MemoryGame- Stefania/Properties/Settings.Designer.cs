@@ -8,7 +8,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace MemoryGame__Stefania.Properties
+namespace MemoryGame.Properties
 {
 
 

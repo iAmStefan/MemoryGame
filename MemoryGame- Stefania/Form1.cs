@@ -9,7 +9,7 @@ using System.Threading.Tasks;
 using System.Threading;
 using System.Windows.Forms;
 
-namespace MemoryGame__Stefania
+namespace MemoryGame
 {
     public partial class Form1 : Form
     {
@@ -332,6 +332,11 @@ namespace MemoryGame__Stefania
             pending2.Image = null;
             pending1 = null;
             pending2 = null;
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
