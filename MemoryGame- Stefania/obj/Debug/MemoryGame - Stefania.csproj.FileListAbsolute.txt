@@ -1,9 +1,0 @@
-D:\Atestate de terminat\MemoryGame- Stefania\MemoryGame- Stefania\bin\Debug\MemoryGame- Stefania.exe.config
-D:\Atestate de terminat\MemoryGame- Stefania\MemoryGame- Stefania\bin\Debug\MemoryGame- Stefania.exe
-D:\Atestate de terminat\MemoryGame- Stefania\MemoryGame- Stefania\bin\Debug\MemoryGame- Stefania.pdb
-D:\Atestate de terminat\MemoryGame- Stefania\MemoryGame- Stefania\obj\Debug\MemoryGame - Stefania.csprojAssemblyReference.cache
-D:\Atestate de terminat\MemoryGame- Stefania\MemoryGame- Stefania\obj\Debug\MemoryGame__Stefania.Form1.resources
-D:\Atestate de terminat\MemoryGame- Stefania\MemoryGame- Stefania\obj\Debug\MemoryGame__Stefania.Properties.Resources.resources
-D:\Atestate de terminat\MemoryGame- Stefania\MemoryGame- Stefania\obj\Debug\MemoryGame - Stefania.csproj.GenerateResource.cache
-D:\Atestate de terminat\MemoryGame- Stefania\MemoryGame- Stefania\obj\Debug\MemoryGame- Stefania.exe
-D:\Atestate de terminat\MemoryGame- Stefania\MemoryGame- Stefania\obj\Debug\MemoryGame- Stefania.pdb
